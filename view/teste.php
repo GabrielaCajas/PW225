@@ -1,0 +1,1 @@
+<a href="?pagina=teste2">Bem vindo a pagina teste!</a>
